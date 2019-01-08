@@ -1,0 +1,16 @@
+@font-face {
+font-family: 'Crafty Girls Regular';
+font-style: normal;
+font-weight: normal;
+src: local('Crafty Girls Regular'), url('CraftyGirls-Regular.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Crafty Girls Regular';
+	color:lightcyan;
+	
+}
+
+@media screen and (max-width: 800px)  {
+	overflow: visible;
+}
