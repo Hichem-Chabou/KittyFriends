@@ -1,6 +1,6 @@
 # KittyFriends
 Web Interface made with React and Tachyons using Robohash and Json placeholder apis.  
-Deomo: https://kittyfriends.surge.sh/
+Demo: https://kittyfriends.surge.sh/
 
 ## Installation
 1. clone the repository
