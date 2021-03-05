@@ -1,5 +1,5 @@
 # KittyFriends
-Web Interface made with React and Tachyons using Robohash and Json placeholder apis.  
+Web Interface made with React  
 Demo: https://kittyfriends.surge.sh/
 
 ## Installation
