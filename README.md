@@ -5,7 +5,7 @@ Web Interface made with React
 Here's a live demo: https://kittyfriends.surge.sh/
 
 ## Installation
-clone the repository  
+Clone the repository  
 ```bash 
 $ git clone https://github.com/Hichem-Chabou/KittyFriends.git
 ```
