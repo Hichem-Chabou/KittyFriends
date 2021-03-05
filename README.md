@@ -5,12 +5,19 @@ Web Interface made with React
 Here's a live demo: https://kittyfriends.surge.sh/
 
 ## Installation
-1. clone the repository
-2. go to the directory
-3. open the terminal and type: <br>
-`
-$ npm install
-`
+clone the repository  
+```bash 
+$ git clone https://github.com/Hichem-Chabou/KittyFriends.git
+```
+Move into the project directory  
+```bash 
+$ cd chrono
+```
+Install the dependencies
+
+```bash
+$ npm i
+```
 
 ## Usage
 ```bash
