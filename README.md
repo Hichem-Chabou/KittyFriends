@@ -13,8 +13,8 @@ $ npm install
 `
 
 ## Usage
-Start the app with <br>
-`
+```bash
 $ npm start
-`
+```
 
+Then go to http://localhost:3000/ to view the app  
