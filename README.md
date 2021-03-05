@@ -1,6 +1,8 @@
 # KittyFriends
 Web Interface made with React  
-Demo: https://kittyfriends.surge.sh/
+
+## Demo  
+Here's a live demo: https://kittyfriends.surge.sh/
 
 ## Installation
 1. clone the repository
